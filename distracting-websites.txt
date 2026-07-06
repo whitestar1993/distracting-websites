@@ -20,15 +20,12 @@
 *.aljazeera.com
 *.allmusic.com
 *.alternet.org
-*.amazon.co.uk
-*.amazon.com
 *.americanthinker.com
 *.anandtech.com
 *.androidauthority
 *.androidpit.com
 *.animalplanet.com
 *.apnews.com
-*.apple.com
 *.arstechnica.com
 *.asofterworld.com
 *.astralcodexten.com
@@ -40,8 +37,6 @@
 *.baraag.net
 *.baraza.africa
 *.barrons.com
-*.bbc.co.uk
-*.bbc.com
 *.bbs.9tail.net
 *.beehaw.org
 *.beekeeping.ninja
@@ -68,7 +63,6 @@
 *.blogspot.com
 *.bloomberg.com
 *.blorbo.social
-*.boardgamegeek.com
 *.bodyandsoul.com
 *.boingboing.net
 *.bolha.social
@@ -151,9 +145,6 @@
 *.digg.com
 *.discovery.com
 *.discoveryplus.com
-*.disney.com
-*.disneynow.com
-*.disneyplus.com
 *.distractionware.com
 *.distrowatch.com
 *.donky.social
@@ -162,7 +153,6 @@
 *.dpreview.com
 *.dribbble.com
 *.drop.com
-*.ebay.com
 *.economist.com
 *.elle.com
 *.engadget.com
@@ -171,7 +161,6 @@
 *.espn.com
 *.esq.social
 *.esquire.com
-*.etsy.com
 *.evoke.ie
 *.expressional.social
 *.extra.ie
@@ -253,7 +242,6 @@
 *.ieji.de
 *.illawarramercury.com.au
 *.images.google.com
-*.imdb.com
 *.imgur.com
 *.indiatimes.com
 *.infidious.fdn.fr
@@ -292,7 +280,6 @@
 *.invidious.zee.li
 *.iogames.space
 *.is.nota.live
-*.itch.io
 *.itsfoss.com
 *.iwgu3cv7ywf3gssed5iqtavmrlszgsxazkmwwnt4h2kdait75thdyrqd.onion
 *.jacobinmag.com
@@ -781,7 +768,6 @@ androidauthority
 androidpit.com
 animalplanet.com
 apnews.com
-apple.com
 arstechnica.com
 asofterworld.com
 astralcodexten.com
