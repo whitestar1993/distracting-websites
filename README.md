@@ -1,3 +1,5 @@
+Personal edit of list
+
 # distracting-websites
 A list of ALL the distracting websites.  Now blocking **732** distinct websites!
 
